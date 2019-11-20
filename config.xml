@@ -3,14 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "ru.rabotavtaxivoditelem.opencashtaxi"
+        id          = "ru.taxiwork.opencashtaxi"
         versionCode = "10"
-        version     = "1.2.0">
+        version     = "1.3.0">
 
-    <name>yandex-taxi.club</name>
+    <name>New</name>
 
     <description>
-        Приложение для регистрации в Яндекс.Такси
+        Приложение для регистрации
     </description>
 
     <author>Tadapp</author>
