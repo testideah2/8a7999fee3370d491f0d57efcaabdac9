@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.rabotavtaxivoditelem.opencashtaxi"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. yandex-taxi.club</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/f4e8eceb5691b39b1a6c50ff74b2e0e9.png" density="xxhdpi" />
         <icon src="res/android/icon/9241ddaa8e51603c5d54a5bfa228979e.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/0f550f8373be6f38fe08766412de569d.png" density="port-hdpi"/>
-        <splash src="res/android/screen/1498874b93172a8f94751d2296a13c7c.png" density="port-ldpi"/>
-        <splash src="res/android/screen/ffa16aec34f7a246236256c02c5b2912.png" density="port-mdpi"/>
-        <splash src="res/android/screen/5a66f0396b3e230f7f063f8c6ae90c29.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/26d99ea3cf1d1483604c9fd9087dd728.png" density="port-hdpi"/>
+        <splash src="res/android/screen/c2241dfdaa27976f51636743877aa6b0.png" density="port-ldpi"/>
+        <splash src="res/android/screen/cbff1541874261b0c70193296aba6e0f.png" density="port-mdpi"/>
+        <splash src="res/android/screen/b84a4cd4d248229602a302414d3e766b.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
